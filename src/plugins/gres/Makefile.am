@@ -1,3 +1,3 @@
 # Makefile for gres plugins
 
-SUBDIRS = gpu nic mic
+SUBDIRS = gpu nic mic fhgfs
